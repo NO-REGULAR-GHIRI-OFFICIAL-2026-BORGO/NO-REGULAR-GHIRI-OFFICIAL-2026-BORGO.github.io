@@ -1,0 +1,458 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    border-left: 7vw solid black;
+    border-right: 7vw solid black;
+    display: block;
+    font-size: 25px;
+    height: 100%;
+}
+
+header,
+section,
+main,
+article,
+.met,
+footer {
+    font-weight: 300;
+    background-color: rgb(236, 117, 27);
+}
+
+section {
+    padding: 2%;
+    text-align: left;
+}
+
+a:visited {
+    color: black;
+}
+
+h1 {
+
+    font-size: 10vw;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+
+header figure a {
+
+    display: block;
+    margin: 0 auto;
+}
+
+.ghirogigante {
+    width: 20%;
+}
+
+
+header figcaption {
+    padding-bottom: 2%;
+    padding-top: 1%;
+}
+
+hr {
+    background-color: black;
+    height: 1.5px;
+    border: solid black 0px;
+}
+
+.castelmaggiore {
+    margin-top: 10px;
+}
+
+p {
+    margin: 0 auto;
+    display: block;
+    width: 87%;
+    padding: 2% 6% 2% 6%;
+    font-weight: bolder;
+    box-sizing: border-box;
+}
+
+.ghiro {
+    text-align: right;
+    font-weight: bolder;
+}
+
+.cinghiale {
+    padding-bottom: 2%;
+    width: 100%;
+}
+
+button {
+    margin: 0 auto;
+    display: block;
+    width: 50%;
+    border-radius: 25px;
+    border: solid black 0.5vw;
+    background-color: rgb(255, 60, 0);
+    color: black;
+    text-align: center;
+    padding: 1.5%;
+    font-size: 70%;
+}
+
+
+.mariadele {
+    margin-top: 2%;
+}
+
+.bedonia {
+    font-size: 160%;
+}
+
+.bedonia:link {
+    color: black;
+}
+
+.bedonia:hover {
+    color: blue;
+}
+
+.berceto {
+    text-align: left;
+    padding: 2%;
+    margin: 0;
+    width: 100%;
+
+}
+
+.roccamurata {
+    display: flex;
+    flex-direction: row;
+}
+
+.roccamurata img {
+    width: 16%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    display: block;
+    margin: 0 AUTO;
+    height: 23%;
+    border: black solid 0.3vw;
+}
+
+.roccamurata .ghiroenorme {
+    border: 0;
+    width: 10%;
+}
+
+.roccamurata .Taro {
+    height: 3%;
+    text-align: center;
+    width: 27%;
+    margin-top: 3%;
+}
+
+.Lina {
+    text-align: left;
+    display: block;
+    padding: 0% 3% 1.5% 3%;
+    width: 100%;
+}
+
+.Mirella {
+    color: black;
+    font-weight: bold;
+    font-size: 150%;
+}
+
+.Mirella:hover {
+    color: blue;
+}
+
+.falò {
+    font-size: 140%;
+}
+
+.matteo {
+    margin-top: 3%;
+}
+
+.piede {
+    overflow: hidden;
+}
+
+.piede figure {
+    float: left;
+    width: 40%;
+    margin: 0 auto;
+    display: block;
+    padding: 3% 0 0 2%;
+}
+
+.pota {
+    padding-top: 1%;
+}
+
+.piede a {
+    width: 100%;
+}
+
+.piede img {
+    width: 100%;
+    border: solid black 0.4vw;
+    border-radius: 10%;
+
+}
+
+.piede figcaption {
+    padding: 2% 0;
+    text-align: center;
+    padding-left: 3%;
+    width: 100%;
+    font-size: 1.3vw;
+}
+
+.orso {
+    padding-top: 16%;
+    width: 60%;
+    float: left;
+    font-size: 2vw;
+}
+
+.orso h4 {
+    display: block;
+    font-weight: bold;
+    padding-bottom: 2%;
+    text-align: left;
+}
+
+.Marione h2,
+.roma h2 {
+    font-weight: 900;
+    text-align: center;
+}
+
+.Marione aside,
+.roma aside {
+    overflow: hidden;
+    padding-bottom: 20px;
+}
+
+.Marione figure,
+.roma figure {
+    width: 32%;
+    float: left;
+    margin: 2px;
+}
+
+.Marione figcaption,
+.roma figcaption {
+    width: 92%;
+    text-align: center;
+    font-weight: 600;
+}
+
+.tabiago {
+    text-align: center;
+    font-size: 0.9em;
+
+}
+
+video {
+    border-radius: 20px;
+    border: solid 4px black;
+
+}
+
+.biffino {
+    float: left;
+}
+
+.pota{
+    margin-bottom: 20px;
+}
+.enrico {
+    width: 50%;
+    text-align: left;
+    margin: 0;
+}
+
+.donpaolo {
+    padding: 1.5%;
+    text-align: left;
+}
+
+ul {
+    text-align: left;
+    padding: 0 3% 3% 3%;
+    list-style-type: square;
+}
+
+.roar {
+    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.roar:hover {
+    color: blue;
+}
+
+.ghirosupergigante {
+    margin-bottom: 2%;
+    width: 17%;
+}
+
+.noi {
+    text-align: left;
+    padding-bottom: 15px;
+}
+
+.noi ul {
+    list-style-type: disc;
+    padding-top: 0.5%;
+    padding-bottom: 1%;
+}
+
+.noi h3 {
+    padding-top: 2%;
+    text-align: center;
+}
+
+.noi section {
+    overflow: hidden;
+}
+
+.noi aside {
+    float: left;
+    width: 47%;
+    margin-bottom: -2%;
+    margin-left: 3%;
+}
+
+@media(width<=1448px) {
+
+    .roma figure,
+    .Marione figure {
+        width: 33%;
+        margin: 0;
+        border: 0;
+        padding: 0;
+    }
+
+    .roma figcaption,
+    .Marione figcaption {
+        font-size: 1.5vw;
+    }
+}
+
+@media(width<=816px) {
+    .falò, .berceto, .Lina{
+        text-align: center;
+    }
+    .orso {
+        font-size: 2vw;
+    }
+    .piede figure {
+        width: 100%;
+        margin: 0 auto;
+        display: block;
+        padding: 10px;
+    }
+
+    .piede figcaption {
+        font-size: 2vw;
+    }
+
+    .orso {
+        padding-top: 0;
+        width: 100%;
+        font-size: 3.5vw;
+    }
+    .teo {
+        font-size: 2.2vw;
+    }
+
+    .Marione figure {
+        display: block;
+        margin: 0 auto;
+        width: 100%;
+        margin-left: 5px;
+    }
+
+    .roma figure {
+        width: 100%;
+        display: block;
+        margin: 0 auto;
+        margin-left: 5px;
+
+    }
+
+    .Marione figcaption {
+        font-size: 5vw;
+        padding-top: 10px;
+        margin: 0 auto;
+        width: 100%;
+        display: block;
+    }
+
+    .roma figcaption {
+        font-size: 5vw;
+        padding-top: 10px;
+        margin: 0 auto;
+        width: 100%;
+        display: block;
+    }
+
+    .Marione h2,
+    .roma h2 {
+        font-size: 7.5vw;
+    }
+
+    .enrico {
+        width: 100%;
+        display: block;
+        margin: 0 auto;
+        margin-right: 40px;
+    }
+}
+
+@media(width<=567px) {
+    body {
+        border-left: 5vw solid black;
+        border-right: 5vw solid black;
+        font-size: 4vw;
+    }
+
+    .mariadele {
+        border-radius: 15px;
+    }
+
+    .ghirogigante {
+        width: 30%;
+    }
+
+    .Leira {
+        border-radius: 15px;
+    }
+
+    .noi {
+        padding: 4%;
+    }
+
+    
+
+    .biffino {
+        border-radius: 10px;
+        border-width: 1vw;
+        border: solid black 1px;
+        width: 97%;
+    }
+
+    .cloddy {
+        padding-left: 6%;
+    }
+}
