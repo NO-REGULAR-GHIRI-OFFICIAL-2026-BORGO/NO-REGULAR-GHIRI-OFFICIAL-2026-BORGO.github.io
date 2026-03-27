@@ -320,6 +320,7 @@ ul {
 .noi h3 {
     padding-top: 2%;
     text-align: center;
+    font-size: 4vw;
 }
 
 .noi section {
@@ -331,6 +332,12 @@ ul {
     width: 47%;
     margin-bottom: -2%;
     margin-left: 3%;
+}
+.noi h4{
+    font-size: 4vw;
+}
+.noi li{
+    font-size: 3vw;
 }
 
 @media(width<=1448px) {
@@ -441,6 +448,12 @@ ul {
 
     .noi {
         padding: 4%;
+    }
+    .noi h4{
+        font-size: 5vw;
+    }
+    .noi li{
+        font-size: 3.5vw;
     }
 
     
