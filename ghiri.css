@@ -320,7 +320,7 @@ ul {
 .noi h3 {
     padding-top: 2%;
     text-align: center;
-    font-size: 4vw;
+    font-size: 5vw;
 }
 
 .noi section {
@@ -334,10 +334,10 @@ ul {
     margin-left: 3%;
 }
 .noi h4{
-    font-size: 4vw;
+    font-size: 3.5vw;
 }
 .noi li{
-    font-size: 3vw;
+    font-size: 2.5vw;
 }
 
 @media(width<=1448px) {
@@ -456,7 +456,9 @@ ul {
         font-size: 3.5vw;
     }
 
-    
+    .noi h3{
+        font-size: 6vw;
+    }
 
     .biffino {
         border-radius: 10px;
